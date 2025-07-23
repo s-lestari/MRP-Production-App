@@ -34,3 +34,7 @@ Operator: Start and monitor production processes
 /sql: Database schema and sample data
 
 🧑‍💻 This project was developed by Bryan Pindonta Tarigan, Jason Amadeus Mozart, Leody Herdian Kasih, Sanya Lestari and Syifa Fauziah.
+
+My Contribution:
+Developed the frontend interface for the production and bill of material module (HTML, CSS, JavaScript), and implemented API integration for production start and monitoring.
+Also contributed to designing the database schema, developed backend logic for the production process and Bill of Materials (BOM), and handled the integration between the production module and inventory management.
