@@ -33,3 +33,4 @@ Operator: Start and monitor production processes
 
 /sql: Database schema and sample data
 
+🧑‍💻 This project was developed by Bryan Pindonta Tarigan, Jason Amadeus Mozart, Leody Herdian Kasih, Sanya Lestari and Syifa Fauziah.
